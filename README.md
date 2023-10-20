@@ -1,5 +1,4 @@
 # Instructions
-- clone the repo https://github.com/imrancse94/Auptimate.git
 
 # Problem 1:
 Go to Problem_1 folder in root directory. There will have two files in the folder ``investor.php`` and  ``index.php``. The logic was written on ``investor.php`` and output was given on ``index.php``.
